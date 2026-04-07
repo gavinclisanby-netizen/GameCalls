@@ -3,7 +3,7 @@ import type { Metadata } from "next";
 
 
 export const metadata: Metadata = {
-	title: "Discord Clone - Login",
+	title: "Games Call - Login",
 	description: "Log in to Discord & Discuss with your friends .",
 };
 
